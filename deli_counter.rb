@@ -1,5 +1,5 @@
 # Write your code here.
-katz_deli = []
+katz_deli = ["Ada", "Grace", "Kent"]
 
 take_a_number(katz_deli, "Ada")
 
