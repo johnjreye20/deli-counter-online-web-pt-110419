@@ -24,7 +24,7 @@ def line(array)
       value, index|
         message += "#{index.to_i+1}. #{value}"
       end
-puts "#{message}"
+      puts "#{message}"
   end
 end
 
